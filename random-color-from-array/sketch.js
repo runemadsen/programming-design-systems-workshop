@@ -1,3 +1,4 @@
+
 function randomColor() {
 
   var colorlist = [
