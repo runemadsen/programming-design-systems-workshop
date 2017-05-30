@@ -36,7 +36,7 @@ function setup() {
 
     // Or if you like vectors
     // var col = p5.Vector.lerp(from, to, i / numRects);
-    // fillHsluv(col.x, col.y, col.z);
+    // fillHsluv(col.x, col.y, col.z)
 
     rect(i * rectWidth, 0, rectWidth, height);
   }
